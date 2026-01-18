@@ -9,7 +9,7 @@ I'm front hand Program Developer who love to create program.
 
 * 🌍  I'm based in Punjab,Pakistan
 * ✉️  You can contact me at [rajaajawad7860@gmail.com](mailto:rajaajawad7860@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  expert in react,react native
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm hit run Programmer, Don't tell everyone!
 
